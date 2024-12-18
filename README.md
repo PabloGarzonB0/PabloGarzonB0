@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/PabloGarzonB0/PabloGarzonB0/blob/main/Presentation_Banner.png)
+<p align="center"> <img src="https://i.pinimg.com/736x/c1/4e/7f/c14e7fe796b68cb39b7cdd75042e44a2.jpg"/> </p>
 <h1 align="center">Hi 👋, I'm Pablo César Garzón</h1>
 
 <p align="center">
