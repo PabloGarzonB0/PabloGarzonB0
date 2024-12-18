@@ -3,6 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablogarzonb0&label=Profile%20views&color=0e75b6&style=flat" alt="pablogarzonb0" /> </p>
 
+- 🔭 I’m currently working on **The classification of environmental sounds**
+
+- 🌱 I’m currently learning **making applications with spring boot and MySQL**
+
+- 💬 Ask me about **Java and Databases**
+
+- 📫 How to reach me **pablogarzon01@gmail.com**
+
+- ⚡ Fun fact **I think that life inside a pool is easier**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pablogarzon-eyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablogarzon-eyt" height="30" width="40" /></a>
