@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pablo César Garzón</h1>
 
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=5dade2&center=true&vCenter=true&lines=It+is+a+pleasure+to+meet+you+;I+am+enthusiastic+Data+Engineer"></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=5dade2&center=true&vCenter=true&lines=It+is+a+pleasure+to+meet+you"></a>
 </p>
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 <h3 align="center">In search of data-driven answers from the most unexpected places</h3>
