@@ -9,15 +9,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablogarzonb0&label=Profile%20views&color=0e75b6&style=flat" alt="pablogarzonb0" /> </p>
 
-- 🔭 I’m currently working on **The classification of environmental sounds**
-
-- 🌱 I’m currently learning **making applications with Spring-boot and MySQL**
+- 🌀 At the moment I'm working on my degree project on **the classification of acoustic environments using spectral representations and scalograms**
+[link proyecto](https://github.com/pablogarzon01/Environment-Sound-Classification-Using-CNN)
+- ☁️ I’m currently learning **Making analysis with MySQL**
 
 - 💬 Ask me about **Java and Databases**
 
 - 📫 How to reach me **pablogarzon01@gmail.com**
--  💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact **I think that life inside a pool is easier**
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- ⚡ Important: **Motivation is the engine that takes us everywhere, that's why it's important to take care of it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
