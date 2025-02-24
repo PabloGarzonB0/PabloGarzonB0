@@ -11,13 +11,30 @@
 
 - 🌀 At the moment I'm working on my degree project on **the classification of acoustic environments using spectral representations and scalograms**
 [link proyecto](https://github.com/pablogarzon01/Environment-Sound-Classification-Using-CNN)
-- ☁️ I’m currently learning **Making analysis with MySQL**
 
-- 💬 Ask me about **Java and Databases**
+💡 **Data Engineer | Java Developer | Passionate about Technology and Data Analysis**  
 
-- 📫 How to reach me **pablogarzon01@gmail.com**
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Important: **Motivation is the engine that takes us everywhere, that's why it's important to take care of it.**
+I am a curious person with a strong motivation for continuous learning. I constantly explore new tools to improve my work and that of those around me. I enjoy sharing knowledge and collaborating with others to solve problems efficiently.  
+
+## 📊 Areas of Interest  
+- Data analysis and relational databases (**MySQL, PostgreSQL**).  
+- **Java development** and software engineering.  
+- Audio signal processing and its application in AI models.  
+- Artificial intelligence and deep learning.  
+
+## 🎯 Key Skills  
+- **Problem analysis and resolution**: I have strong analytical skills, especially in **audio signal analysis and data processing**.  
+- **Collaboration and continuous learning**: I believe technology brings us into a new productive era and helps us solve complex problems efficiently. That’s why I am always looking to improve and share knowledge with those around me.  
+
+## 🚀 What I'm currently working on  
+- Learning and applying **data analysis with MySQL**.  
+- Exploring new technologies to enhance my skills.  
+
+## 📩 Contact  
+Feel free to reach out at **pablogarzon01@gmail.com**  
+
+⚡ **Quote that inspires me:**  
+*"Motivation is the engine that takes us everywhere. That’s why it’s important to take care of it."*  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
