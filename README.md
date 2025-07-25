@@ -16,21 +16,21 @@
 
 I am a curious person with a strong motivation for continuous learning. I constantly explore new tools to improve my work and that of those around me. I enjoy sharing knowledge and collaborating with others to solve problems efficiently.  
 
-## 📊 Areas of Interest  
+## 1. Areas of Interest  
 - Data analysis and relational databases (**MySQL, PostgreSQL**).  
 - **Java development** and software engineering.  
 - Audio signal processing and its application in AI models.  
 - Artificial intelligence and deep learning.  
 
-## 🎯 Key Skills  
+## 2. Key Skills  
 - **Problem analysis and resolution**: I have strong analytical skills, especially in **audio signal analysis and data processing**.  
 - **Collaboration and continuous learning**: I believe technology brings us into a new productive era and helps us solve complex problems efficiently. That’s why I am always looking to improve and share knowledge with those around me.  
 
-## 🚀 What I'm currently working on  
+## 3. What I'm currently working on  
 - Learning and applying **data analysis with MySQL**.  
 - Exploring new technologies to enhance my skills.  
 
-## 📩 Contact  
+## Info Contact  
 Feel free to reach out at **pablogarzon01@gmail.com**  
 
 ⚡ **Quote that inspires me:**  
