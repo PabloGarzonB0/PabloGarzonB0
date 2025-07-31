@@ -11,7 +11,7 @@
 - 🌀 At the moment I'm working on my degree project on **the classification of acoustic environments using spectral representations and scalograms**
 [link proyecto](https://github.com/pablogarzon01/Environment-Sound-Classification-Using-CNN)
 
-💡 **Data Engineer | Java Developer | Passionate about Technology and Data Analysis**  
+💡 **Data Engineer | Java Developer | Passionate about Technology**  
 
 I am a curious person with a strong motivation for continuous learning. I constantly explore new tools to improve my work and that of those around me. I enjoy sharing knowledge and collaborating with others to solve problems efficiently.  
 
