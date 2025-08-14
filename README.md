@@ -11,7 +11,7 @@
 - 🌀 At the moment I'm working on my degree project on **the classification of acoustic environments using spectral representations and scalograms**
 [link proyecto](https://github.com/pablogarzon01/Environment-Sound-Classification-Using-CNN)
 
-💡 **Data Engineer | Java Developer | Passionate about Technology**  
+💡 **| Java Developer | Passionate about Technology**  
 
 I am a curious person with a strong motivation for continuous learning. I constantly explore new tools to improve my work and that of those around me. I enjoy sharing knowledge and collaborating with others to solve problems efficiently.  
 
@@ -26,7 +26,7 @@ I am a curious person with a strong motivation for continuous learning. I consta
 - **Collaboration and continuous learning**: I believe technology brings us into a new productive era and helps us solve complex problems efficiently. That’s why I am always looking to improve and share knowledge with those around me.  
 
 ## 3. What I'm currently working on  
-- Learning and applying **data analysis with MySQL**.  
+- Learning and applying **Software analyst with Java**.  
 - Exploring new technologies to enhance my skills.  
 
 ## Info Contact  
